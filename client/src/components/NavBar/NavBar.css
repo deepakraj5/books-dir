@@ -1,0 +1,10 @@
+.nav-home {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.nav-home:hover {
+    text-decoration: none;
+    color: black
+}
